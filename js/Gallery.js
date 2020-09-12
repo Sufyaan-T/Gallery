@@ -29,4 +29,5 @@ if(galleryImages) {
 function closeImg(){
     document.querySelector(".img-window").remove();
 }
+
 //https://youtu.be/dkLpo4shS6c?t=3647
