@@ -29,5 +29,7 @@ if(galleryImages) {
 function closeImg(){
     document.querySelector(".img-window").remove();
 }
+
+//Bruh is calling
 //Watch the rest of video
 //https://youtu.be/dkLpo4shS6c?t=3647
