@@ -7,7 +7,7 @@
     "gallery-p gallery-p gallery-p gallery-p"
     "gallery-h2 gallery-h2 gallery-h2 gallery-h2"
     "img1 img2 img3 img4"
-    "img1 img2 img3 img4";
+    "img5 img6 img7 img4";
 }
 
 #Index-Gallery .gallery-img {
@@ -50,8 +50,23 @@
 #Index-Gallery .img4{
     grid-area: img4;
     background-image: url("../img/thumbs/img4.jpg");
-    height: 600px;
+    height: 609px;
+    
 
+}
+#Index-Gallery .img5{
+    grid-area: img5;
+    background-image: url("../img/thumbs/img5.jpg");
+}
+
+#Index-Gallery .img6{
+    grid-area: img6;
+    background-image: url("../img/thumbs/img6.jpg");
+}
+
+#Index-Gallery .img7{
+    grid-area: img7;
+    background-image: url("../img/thumbs/img7.jpg");
 }
 
 /*Gallery image titles*/
