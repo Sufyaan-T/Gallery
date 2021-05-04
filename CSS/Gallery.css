@@ -31,42 +31,42 @@
 
 #Index-Gallery .img1{
     grid-area: img1;
-    background-image: url("../img/img1.jpg");
+    background-image: url("../img/img1.webp");
 
 }
 
 #Index-Gallery .img2{
     grid-area: img2;
-    background-image: url("../img/img2.jpg");
+    background-image: url("../img/img2.webp");
 
 }
 
 #Index-Gallery .img3{
     grid-area: img3;
-    background-image: url("../img/img3.jpg");
+    background-image: url("../img/img3.webp");
 
 }
 
 #Index-Gallery .img4{
     grid-area: img4;
-    background-image: url("../img/img4.jpg");
+    background-image: url("../img/img4.webp");
     height: 609px;
     
 
 }
 #Index-Gallery .img5{
     grid-area: img5;
-    background-image: url("../img/img5.jpg");
+    background-image: url("../img/img5.webp");
 }
 
 #Index-Gallery .img6{
     grid-area: img6;
-    background-image: url("../img/img6.jpg");
+    background-image: url("../img/img6.webp");
 }
 
 #Index-Gallery .img7{
     grid-area: img7;
-    background-image: url("../img/img7.jpg");
+    background-image: url("../img/img7.webp");
 }
 
 /*Gallery image titles*/
