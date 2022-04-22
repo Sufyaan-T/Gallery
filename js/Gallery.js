@@ -37,7 +37,7 @@ if(galleryImages) {
                 newNextBtn.setAttribute("onclick", "changeImg(1)");
                 newNextBtn.style.cssText = "right: " + calcImgToEdge + "px;";
 
-            
+            //Previous Button
                let newPrevBtn = document.createElement("a");
                let btnPrevText = document.createTextNode("Prev");
                newPrevBtn.appendChild(btnPrevText);
@@ -80,7 +80,7 @@ function changeImg(changeDir){
         }
     }
 
-    newImg.setAttribute("src", "img/img" + calcNewImg + ".jpg");
+    newImg.setAttribute("src", "img/img" + calcNewImg + ".webp");
     newImg.setAttribute("id", "current-img");
     
     
